@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile DevOps**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes and Terraform**
 
 - 💬 Ask me about **Fastlane , Github Actions and Docker**
 
