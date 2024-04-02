@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Fastlane , Jenkins**
+- 💬 Ask me about **Fastlane , Github Actions and Docker**
 
 - 📫 How to reach me **vishalsolanki7696@gmail.com**
 
